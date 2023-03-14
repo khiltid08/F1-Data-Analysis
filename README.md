@@ -1,5 +1,3 @@
-<img src="[C:\Users\91993\Desktop\f1\f1 logo.jpeg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.campaignasia.com%2Farticle%2Fcheckered-response-f1s-new-logo%2F441298&psig=AOvVaw1zYv0USrT2JMrl3XzwysWU&ust=1678922214898000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNiTyePG3P0CFQAAAAAdAAAAABAE)" alt="F1 logo">
-
 # F1-Data-Analysis
 This project analyzes F1 race results data to gain insights into driver performance, team standings, and other aspects of the sport. The project uses data from Kaggle, which provides detailed information on F1 races, drivers, and teams.
 
