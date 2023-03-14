@@ -4,11 +4,11 @@ This project analyzes F1 race results data to gain insights into driver performa
 ## Requirements
 To run this project, you will need:
 
--Python 3.x
--Jupyter Notebook
--Pandas
--Matplotlib
--You can install these packages using pip:
+- Python 3.x
+- Jupyter Notebook
+- Pandas
+- Matplotlib
+- You can install these packages using pip:
 
 
 ##Data
@@ -17,8 +17,8 @@ The data used in this project comes from Kaggle (https://www.kaggle.com/datasets
 ## Analysis
 This project analyzes F1 race results data to answer the following questions:
 
-Which drivers and teams have performed the best over the course of the season?
-How have individual drivers' performances varied over the season?
-What is the distribution of finishing positions for each driver?
-How have weather conditions and track characteristics affected race results?
-The analysis uses pandas and matplotlib to clean, manipulate, and visualize the data.
+How do Hamilton, Vettel, and Schumacher compare in terms of their career statistics, such as wins, poles, fastest laps, and points?
+
+How did their performance evolve over time, and how did they cope with changes in regulations, technology, and competition?
+
+The analysis uses pandas, seaborn, and matplotlib to clean, manipulate, and visualize the data.
