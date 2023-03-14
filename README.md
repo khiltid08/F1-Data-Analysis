@@ -12,7 +12,7 @@ To run this project, you will need:
 
 
 ## Data
-The data used in this project comes from Kaggle (https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020) that contains information on F1 drivers, teams, and races from 1950 to 2023. The dataset includes a wide range of variables, such as the driver's name, nationality, team, number of wins, pole positions, fastest laps, and championship points, as well as the race's location, date, track, weather, and result.
+The data used in this project comes from Kaggle (https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020) that contains information on F1 drivers, teams, and races from 1950 to 2023. The dataset includes a wide range of variables, such as the driver's name, nationality, team, number of wins, pole positions, fastest laps, and championship points, as well as the race's location, date, tracks, and results.
 
 ## Analysis
 This project analyzes F1 race results data to answer the following questions:
